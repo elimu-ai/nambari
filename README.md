@@ -7,9 +7,11 @@ Corresponding [EGMA skill](https://github.com/elimu-ai/model/blob/master/src/mai
     
 > ![](https://raw.githubusercontent.com/elimu-ai/webapp/master/src/main/webapp/static/img/admin/EGMA_NUMBER_IDENTIFICATION.png)
 
-## Demo Video 🎥
+## Demo Videos 🎥
 
 [![](https://i.ytimg.com/vi/o-2HJvZ4H9U/hqdefault.jpg)](https://youtu.be/o-2HJvZ4H9U)
+
+[![](https://i.ytimg.com/vi/QBIsf6oeggY/hqdefault.jpg)](https://youtu.be/QBIsf6oeggY)
 
 ## Installation
 

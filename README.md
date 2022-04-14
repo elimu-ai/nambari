@@ -9,10 +9,10 @@ Corresponding [EGMA skill](https://github.com/elimu-ai/model/blob/master/src/mai
 
 ## Demo Videos 🎥
 
-### Handwriting Instruction
+### Handwriting (instruction)
 [![](https://i.ytimg.com/vi/o-2HJvZ4H9U/hqdefault.jpg)](https://youtu.be/o-2HJvZ4H9U)
 
-### Handwriting Assessment
+### Handwriting (assessment)
 
 [![](https://i.ytimg.com/vi/QBIsf6oeggY/hqdefault.jpg)](https://youtu.be/QBIsf6oeggY)
 

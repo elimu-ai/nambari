@@ -2,6 +2,11 @@
 
 Android application for learning how to identify numbers.
 
+Corresponding [EGMA skill](https://github.com/elimu-ai/model/blob/master/src/main/java/ai/elimu/model/v2/enums/content/NumeracySkill.java): `NUMBER_IDENTIFICATION`
+> Establishes an understanding of children's knowledge and identification of written symbols. Students orally identify printed number symbols that are randomly selected and placed in a grid.
+    
+> ![](https://raw.githubusercontent.com/elimu-ai/webapp/master/src/main/webapp/static/img/admin/EGMA_NUMBER_IDENTIFICATION.png)
+
 ## Demo Video 🎥
 
 [![](https://i.ytimg.com/vi/o-2HJvZ4H9U/hqdefault.jpg)](https://youtu.be/o-2HJvZ4H9U)

@@ -16,6 +16,10 @@ Corresponding [EGMA skill](https://github.com/elimu-ai/model/blob/master/src/mai
 
 [![](https://i.ytimg.com/vi/QBIsf6oeggY/hqdefault.jpg)](https://youtu.be/QBIsf6oeggY)
 
+### Typing (assessment)
+
+[![](https://i.ytimg.com/vi/qHmlXeoRvmw/hqdefault.jpg)](https://youtu.be/qHmlXeoRvmw)
+
 ## Installation
 
 Note: This app depends on the [elimu.ai Content Provider](https://github.com/elimu-ai/content-provider) to be installed.

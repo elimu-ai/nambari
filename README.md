@@ -16,9 +16,13 @@ Corresponding [EGMA skill](https://github.com/elimu-ai/model/blob/master/src/mai
 
 [![](https://i.ytimg.com/vi/QBIsf6oeggY/hqdefault.jpg)](https://youtu.be/QBIsf6oeggY)
 
-### Typing (assessment)
+### Type (assessment)
 
 [![](https://i.ytimg.com/vi/qHmlXeoRvmw/hqdefault.jpg)](https://youtu.be/qHmlXeoRvmw)
+
+### Listen and select
+
+[![](https://i.ytimg.com/vi/N1eK-p8Vv_o/hqdefault.jpg)](https://youtu.be/N1eK-p8Vv_o)
 
 ## Installation
 

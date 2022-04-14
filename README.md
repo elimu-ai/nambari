@@ -2,6 +2,10 @@
 
 Android application for learning how to identify numbers.
 
+## Demo Video 🎥
+
+[![](https://i.ytimg.com/vi/o-2HJvZ4H9U/hqdefault.jpg)](https://youtu.be/o-2HJvZ4H9U)
+
 ## Installation
 
 Note: This app depends on the [elimu.ai Content Provider](https://github.com/elimu-ai/content-provider) to be installed.
